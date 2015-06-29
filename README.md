@@ -3,7 +3,7 @@ Huuzkee
 
 [![Build Status](https://drone.io/github.com/Huuzkee/huuzkee/status.png)](https://drone.io/github.com/Huuzkee/huuzkee/latest)
 
-|------------------------|--------|
+
 |  Area                  |   description     |
 |------------------------|--------|
 | [HUUZKEE] https://github.com/vonwenm       |        |
