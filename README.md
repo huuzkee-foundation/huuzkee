@@ -5,11 +5,11 @@ Huuzkee
 
 Huuzkee
 
-[HUUZKEE-GO-WEB](https://github.com/huuzkee-go-web)
-https://github.com/huuzkee-go-service
-https://github.com/huuzkee-go-mail
+[==HUUZKEE-GO-WEB](https://github.com/huuzkee-go-web)
+[==HUUZKEE-GO-SERVICE](https://github.com/huuzkee-go-service)
+[==HUUZKEE-GO-MAIL](https://github.com/huuzkee-go-mail)
 
-https://github.com/organizations/huuzkee-rig/
+[HUUZKEE-RIG](https://github.com/organizations/huuzkee-rig/)
 
 
 https://github.com/vonwenm
